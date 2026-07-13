@@ -4,10 +4,6 @@
        width="100%">
 </p>
 
-<p align="center">
-  <img src="./yuriqa-lab-banner-dark-02.png" alt="Yuriqa Lab banner" width="100%">
-</p>
-
 <h1 align="center">Yuriqa Lab</h1>
 
 <p align="center">
