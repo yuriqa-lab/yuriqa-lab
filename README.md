@@ -26,6 +26,12 @@ A small interactive tool for observing changes in model behavior.
 - [Repository](https://github.com/yuriqa-lab/model-drift-observation-kit)
 - [Live Site](https://yuriqa-lab.github.io/model-drift-observation-kit/)
 
+### KitchenRx
+
+A bilingual, care-oriented meal-support web application that connects recipes, ingredients, and nutrition information.
+
+- [Repository](https://github.com/yuriqa-lab/kitchenrx)
+
 ## About Yuriqa Lab
 
 Yuriqa Lab is a personal space for building, observing, documenting, and learning through small public projects.
