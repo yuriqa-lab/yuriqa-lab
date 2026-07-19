@@ -12,6 +12,13 @@
 
 ## Projects
 
+### Kyōdo Ryōri Atlas (郷土料理アトラス)
+
+A local-first, bilingual atlas of Japanese regional cuisine — 47 prefectures, 94 dishes to taste and record.
+
+- [Repository](https://github.com/yuriqa-lab/kyodo-atlas)
+- [Live Site](https://yuriqa-lab.github.io/kyodo-atlas/)
+
 ### Travel Atlas
 
 A local-first interactive world and Japan travel map.
