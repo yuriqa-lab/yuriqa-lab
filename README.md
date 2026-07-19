@@ -12,6 +12,13 @@
 
 ## Projects
 
+### Rehearsal Room (面接・プレゼン練習室)
+
+A local-first practice room for interviews, Eiken speaking tests, and presentations — browser-native voice, zero running cost.
+
+- [Repository](https://github.com/yuriqa-lab/rehearsal-room)
+- [Live Site](https://yuriqa-lab.github.io/rehearsal-room/)
+
 ### Kyōdo Ryōri Atlas (郷土料理アトラス)
 
 A local-first, bilingual atlas of Japanese regional cuisine — 47 prefectures, 94 dishes to taste and record.
