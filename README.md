@@ -7,73 +7,78 @@
 <h1 align="center">Yuriqa Lab</h1>
 
 <p align="center">
-  Research notes, tools, and experiments.
+  A pseudonymous research and project notebook for practical, human-centered tools.
 </p>
 
-## Projects
+<p align="center">
+  <a href="https://yuriqa-lab.github.io/">Website</a>
+  ·
+  <a href="https://yuriqa-lab.github.io/#field-notes">Field Notes</a>
+</p>
 
-### Shun Koyomi (旬の食材こよみ)
+## Featured work
 
-A Japanese seasonal-ingredients almanac — 144 ingredients with professional selection tips and reverse lookup.
+### KitchenRx
 
-- [Repository](https://github.com/yuriqa-lab/shun-koyomi)
-- [Live Site](https://yuriqa-lab.github.io/shun-koyomi/)
+A bilingual, care-oriented meal-support prototype with explainable recipe
+matching, public nutrition sources, and local-only saved recipes.
 
-### Recipe Studio (配合計算スタジオ)
-
-A local-first studio for professional recipe math — baker's percentages, scaling, hydration, and batch costing.
-
-- [Repository](https://github.com/yuriqa-lab/recipe-studio)
-- [Live Site](https://yuriqa-lab.github.io/recipe-studio/)
-
-### PR Days (カナダ永住権 居住義務カレンダー)
-
-A local-first tracker for the Canadian PR residency obligation — 730 days in any rolling 5-year window, with compliance-break projection.
-
-- [Repository](https://github.com/yuriqa-lab/pr-days)
-- [Live Site](https://yuriqa-lab.github.io/pr-days/)
-
-### Nutrient Compass (栄養コンパス)
-
-A local-first nutrition compass: select your wellness concerns and see the nutrients, food portions, and rotating daily picks — no AI API by design.
-
-- [Repository](https://github.com/yuriqa-lab/nutrient-compass)
-- [Live Site](https://yuriqa-lab.github.io/nutrient-compass/)
-
-### Rehearsal Room (面接・プレゼン練習室)
-
-A local-first practice room for interviews, Eiken speaking tests, and presentations — browser-native voice, zero running cost.
-
-- [Repository](https://github.com/yuriqa-lab/rehearsal-room)
-- [Live Site](https://yuriqa-lab.github.io/rehearsal-room/)
-
-### Kyōdo Ryōri Atlas (郷土料理アトラス)
-
-A local-first, bilingual atlas of Japanese regional cuisine — 47 prefectures, 94 dishes to taste and record.
-
-- [Repository](https://github.com/yuriqa-lab/kyodo-atlas)
-- [Live Site](https://yuriqa-lab.github.io/kyodo-atlas/)
-
-### Travel Atlas
-
-A local-first interactive world and Japan travel map.
-
-- [Repository](https://github.com/yuriqa-lab/travel-atlas)
-- [Live Site](https://yuriqa-lab.github.io/travel-atlas/)
+- [Repository](https://github.com/yuriqa-lab/kitchenrx)
+- [Live Site](https://kitchenrx.yuriqa-lab.workers.dev/)
 
 ### Model Drift Observation Kit
 
-A small interactive tool for observing changes in model behavior.
+A local-first scorecard for documenting changes in conversational AI behavior
+without treating a single interaction as proof of a system change.
 
 - [Repository](https://github.com/yuriqa-lab/model-drift-observation-kit)
 - [Live Site](https://yuriqa-lab.github.io/model-drift-observation-kit/)
 
-### KitchenRx
+### Rehearsal Room (面接・プレゼン練習室)
 
-A bilingual, care-oriented meal-support web application that connects recipes, ingredients, and nutrition information.
+A local-first practice room for interviews, Eiken speaking tests, and
+presentations using browser-native voice and configurable timers.
 
-- [Repository](https://github.com/yuriqa-lab/kitchenrx)
+- [Repository](https://github.com/yuriqa-lab/rehearsal-room)
+- [Live Site](https://yuriqa-lab.github.io/rehearsal-room/)
+
+## More tools
+
+- [Shun Koyomi / 旬の食材こよみ](https://yuriqa-lab.github.io/shun-koyomi/) —
+  a seasonal-ingredient almanac with selection tips and reverse lookup
+- [Recipe Studio / 配合計算スタジオ](https://yuriqa-lab.github.io/recipe-studio/) —
+  local-first recipe scaling, baker's percentages, hydration, and costing
+- [Kyōdo Ryōri Atlas / 郷土料理アトラス](https://yuriqa-lab.github.io/kyodo-atlas/) —
+  a bilingual map of 47 prefectures and 94 editorially selected dishes
+- [Nutrient Compass / 栄養コンパス](https://yuriqa-lab.github.io/nutrient-compass/) —
+  a Japanese-first food-and-nutrition exploration prototype
+- [Travel Atlas](https://yuriqa-lab.github.io/travel-atlas/) —
+  a private-by-design world and Japan travel map
+- [PR Days](https://yuriqa-lab.github.io/pr-days/) —
+  a general-purpose, local-first residency-day calculator
+
+Source repositories are available under the
+[Yuriqa Lab GitHub profile](https://github.com/yuriqa-lab?tab=repositories).
+
+## Field notes
+
+**Model Personality Drift: A User-Side Observation Framework** is the flagship
+note: a framework for evaluating long-term conversational continuity alongside
+conventional capability measures.
+
+Read the current research-note summaries on the
+[Yuriqa Lab website](https://yuriqa-lab.github.io/#field-notes).
+
+## Principles
+
+- local-first where practical
+- no accounts or tracking in the small browser tools
+- explicit limitations and inspectable rules
+- bilingual or Japanese-first interfaces according to the project
+- pseudonymous public work with identifying details intentionally omitted
 
 ## About Yuriqa Lab
 
-Yuriqa Lab is a personal space for building, observing, documenting, and learning through small public projects.
+Yuriqa Lab is a privacy-conscious pseudonymous research and project notebook
+for building, observing, documenting, and learning through small public
+projects.
