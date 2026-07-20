@@ -12,6 +12,13 @@
 
 ## Projects
 
+### Shun Koyomi (旬の食材こよみ)
+
+A Japanese seasonal-ingredients almanac — 144 ingredients with professional selection tips and reverse lookup.
+
+- [Repository](https://github.com/yuriqa-lab/shun-koyomi)
+- [Live Site](https://yuriqa-lab.github.io/shun-koyomi/)
+
 ### Recipe Studio (配合計算スタジオ)
 
 A local-first studio for professional recipe math — baker's percentages, scaling, hydration, and batch costing.
