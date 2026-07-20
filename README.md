@@ -12,6 +12,13 @@
 
 ## Projects
 
+### PR Days (カナダ永住権 居住義務カレンダー)
+
+A local-first tracker for the Canadian PR residency obligation — 730 days in any rolling 5-year window, with compliance-break projection.
+
+- [Repository](https://github.com/yuriqa-lab/pr-days)
+- [Live Site](https://yuriqa-lab.github.io/pr-days/)
+
 ### Nutrient Compass (栄養コンパス)
 
 A local-first nutrition compass: select your wellness concerns and see the nutrients, food portions, and rotating daily picks — no AI API by design.
