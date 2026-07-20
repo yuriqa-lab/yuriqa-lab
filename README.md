@@ -12,6 +12,13 @@
 
 ## Projects
 
+### Recipe Studio (配合計算スタジオ)
+
+A local-first studio for professional recipe math — baker's percentages, scaling, hydration, and batch costing.
+
+- [Repository](https://github.com/yuriqa-lab/recipe-studio)
+- [Live Site](https://yuriqa-lab.github.io/recipe-studio/)
+
 ### PR Days (カナダ永住権 居住義務カレンダー)
 
 A local-first tracker for the Canadian PR residency obligation — 730 days in any rolling 5-year window, with compliance-break projection.
