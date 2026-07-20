@@ -12,6 +12,13 @@
 
 ## Projects
 
+### Nutrient Compass (栄養コンパス)
+
+A local-first nutrition compass: select your wellness concerns and see the nutrients, food portions, and rotating daily picks — no AI API by design.
+
+- [Repository](https://github.com/yuriqa-lab/nutrient-compass)
+- [Live Site](https://yuriqa-lab.github.io/nutrient-compass/)
+
 ### Rehearsal Room (面接・プレゼン練習室)
 
 A local-first practice room for interviews, Eiken speaking tests, and presentations — browser-native voice, zero running cost.
